@@ -1,6 +1,8 @@
 Hello World!
 
-<a href="www.linkedin.com/in/luana-lamonica-b8a2a7289"><img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+<a href="www.linkedin.com/in/luana-lamonica-b8a2a7289">
+  <img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+</a>
 
 🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Trabalho atualmente na CART - Concessionária Auto Raposo Tavares, na área de Controladoria, automatizando processos, manipulando CAPEX e OPEX, e consolidando orçamentos.
 
