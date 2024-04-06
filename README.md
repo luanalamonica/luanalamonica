@@ -7,7 +7,7 @@ Hello World!
 🎓 Ao longo da minha trajetória na faculdade, realizei projetos como: Sensor de batimento cardíaco com Arduino e projeto de startup sobre Cibersegurança e AppSec no Santander Explorer 2023 - 2ª Edição.
 
 <div style="display: inline">
-  &nbsp;&nbsp;<img widht='50' height='50' src="(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img widht='50' height='50' src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
 
 
 
