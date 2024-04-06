@@ -17,9 +17,11 @@ Hello World!
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 </div>
- 
--------------------------------------------------------------------------------------------------
+
+##
+
+Você também me encontra em:
 
 &nbsp;<a href="www.linkedin.com/in/luana-lamonica-b8a2a7289">
-  <img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
