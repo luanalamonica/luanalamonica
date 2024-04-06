@@ -16,6 +16,7 @@ Hello World!
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+</div>
  
 
 
