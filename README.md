@@ -25,7 +25,3 @@ Você também me encontra em:
 &nbsp;<a href="www.linkedin.com/in/luana-lamonica-b8a2a7289">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-
-&nbsp;<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;
