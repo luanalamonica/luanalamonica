@@ -18,10 +18,7 @@ Hello World!
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 </div>
  
-
-
-
-
+-------------------------------------------------------------------------------------------------
 
 &nbsp;<a href="www.linkedin.com/in/luana-lamonica-b8a2a7289">
   <img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
