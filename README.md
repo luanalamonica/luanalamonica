@@ -18,6 +18,7 @@
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img widht='30' height='30' src="[https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)" />&nbsp;&nbsp;
 </div>
 
 ##
