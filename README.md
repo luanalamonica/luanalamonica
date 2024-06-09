@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <h1>Hello World!</h1>
 
 🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Trabalho atualmente na CART - Concessionária Auto Raposo Tavares, na área de Controladoria, manipulando CAPEX e OPEX, e consolidando orçamentos. 
