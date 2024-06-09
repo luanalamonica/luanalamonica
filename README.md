@@ -37,4 +37,4 @@ Você também me encontra em:
 
 ##
 
-[![luanalamonica](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![luanalamonica](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
