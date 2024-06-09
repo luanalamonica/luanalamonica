@@ -40,4 +40,4 @@ Você também me encontra em:
 [![card](https://github-readme-stats.vercel.app/api?username=luanalamonica&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![luanalamonica](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/luanalamonica/luanalamonica/blob/output/github-contribution-grid-snake.svg)
+
