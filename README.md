@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Trabalho atualmente na CART - Concessionária Auto Raposo Tavares, na área de Controladoria, manipulando CAPEX e OPEX, e consolidando orçamentos. 
+🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Atualmente trabalho na CART - Concessionária Auto Raposo Tavares, na área de Controladoria.
 
-🎓 Ao longo da minha trajetória na faculdade, realizei projetos como: Sensor de batimento cardíaco com Arduino, projeto de startup sobre Cybersecurity e AppSec no Santander Explorer 2023 - 2ª Edição e desenvolvimento Web, o Nurture.
+🎓 Na faculdade, realizei diversos projetos, incluindo um sensor de batimento cardíaco com Arduino, uma ideia startup sobre Cybersecurity e AppSec no Santander Explorer 2023 - 2ª Edição, além do Nurture.
 
 👩🏼‍💻 Tenho habilidades com:
 
