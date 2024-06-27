@@ -25,7 +25,6 @@
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />&nbsp;&nbsp;
