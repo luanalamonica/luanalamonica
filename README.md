@@ -9,7 +9,6 @@
 👩🏼‍💻 Tenho habilidades com:
 
 <div style="display: inline">
-  &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img widht='30' height='30' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
