@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luana</h1>
 <h3 align="center">An IT support from Bauru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanalamonica" alt="luanalamonica" /></a> </p>
-
 - 🔭 I’m currently working on **developing a portfolio website**
 
 - 🌱 I’m currently learning **front-end development**
