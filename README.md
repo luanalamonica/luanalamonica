@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Atualmente trabalho na CART - Concessionária Auto Raposo Tavares, na área de Controladoria.
+🙋🏼‍♀️ Sou Luana, estudante de Sistemas de informação e Análise e Desenvolvimento de Sistemas. Atualmente trabalho na CART - Concessionária Auto Raposo Tavares, como estagiária de suporte TI.
 
 🎓 Na faculdade, realizei diversos projetos, incluindo um sensor de batimento cardíaco com Arduino, uma ideia startup sobre Cybersecurity e AppSec no Santander Explorer 2023 - 2ª Edição, além do Nurture.
 
