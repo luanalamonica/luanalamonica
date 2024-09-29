@@ -10,12 +10,10 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 
 Aqui estão algumas das minhas principais competências em Front-End:
 
-- **HTML**: Estruturação de páginas web com semântica e acessibilidade.
-- **CSS**: Estilização de layouts responsivos e modernos, utilizando pré-processadores como SASS.
-- **JavaScript**: Desenvolvimento de interações dinâmicas e manipulação do DOM.
-- **Frameworks**: Experiência com frameworks como React e Vue.js para a construção de interfaces ricas e responsivas.
-- **Versionamento de Código**: Familiaridade com Git e GitHub para controle de versão e colaboração em projetos.
-- **Ferramentas de Build**: Uso de ferramentas como Webpack e Babel para otimização de projetos.
-- **Testes**: Conhecimento em testes automatizados para garantir a qualidade do código.
-
-Estou sempre aberta a novas oportunidades e desafios. Vamos conectar e trocar ideias!
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
