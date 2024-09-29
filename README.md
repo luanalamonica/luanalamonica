@@ -10,10 +10,12 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 
 Aqui estão algumas das minhas principais competências em Front-End:
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+<p>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</p>
