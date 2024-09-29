@@ -26,8 +26,8 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 <p>
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
     <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="ASP.NET" width="48" height="48"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="48" height="48"/>
 </p>
