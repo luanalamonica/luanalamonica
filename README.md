@@ -42,5 +42,3 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 <p>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
-
-Estou sempre aberta a novas oportunidades e desafios. Vamos conectar e trocar ideias!
