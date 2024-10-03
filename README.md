@@ -39,6 +39,9 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 </p>
 
 ## Gráficos
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
 ![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=dark)
+
+
 
