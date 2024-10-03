@@ -38,5 +38,7 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
     <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
 </p>
 
-## Linguagens que Mais Uso no GitHub
+## Gráficos
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
+![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=dark)
+
