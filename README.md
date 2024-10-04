@@ -1,4 +1,4 @@
-# ![Badge](https://img.shields.io/badge/Olá,_sou_Luana!-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+# Olá, sou Luana
 
 Sou profissional de suporte de TI e estou sempre em constante evolução no mundo do **Front-End**. Minha paixão por tecnologia e meu desejo de aprender continuamente me motivam a aprimorar minhas habilidades e oferecer soluções inovadoras.
 
