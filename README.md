@@ -1,17 +1,43 @@
-![Status](profile-night-rainbow.svg)
+# Olá, sou Luana
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanalamonica&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanalamonica&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
+Sou profissional de suporte de TI e estou sempre em constante evolução no mundo do **Front-End**. Minha paixão por tecnologia e meu desejo de aprender continuamente me motivam a aprimorar minhas habilidades e oferecer soluções inovadoras.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-  </a>
-  <br />
-</div>
+## Contato
 
-##
+Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcbertoli11@gmail.com)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanalamonica&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" />
-</div>
+## Competências
+
+### Linguagens de Programação
+<p>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+</p>
+
+### Frameworks
+<p>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="ASP.NET" width="48" height="48"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="48" height="48"/>
+</p>
+
+### Sistemas Operacionais
+<p>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+    <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
+</p>
+
+## Sobre meu perfil
+![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
