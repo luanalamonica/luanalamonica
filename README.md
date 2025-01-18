@@ -39,5 +39,4 @@ Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcb
 </p>
 
 ## Sobre meu perfil
-![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=dark)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
