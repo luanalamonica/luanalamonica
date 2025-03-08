@@ -11,8 +11,7 @@ Entretanto, meu principal objetivo é a transição para o desenvolvimento web. 
 ## Áreas de Interesse
 
 - Desenvolvimento Web (Front-End e Back-End)
-- Programação e criação de soluções inovadoras
-- Aprendizado contínuo em tecnologias modernas
+- Suporte TI
 
 ## Contato
 
