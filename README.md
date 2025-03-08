@@ -1,10 +1,22 @@
-# Olá, sou Luana
+# Olá, eu sou a Luana! 👩‍💻
 
-Sou profissional de suporte de TI e estou sempre em constante evolução no mundo do **Front-End**. Minha paixão por tecnologia e meu desejo de aprender continuamente me motivam a aprimorar minhas habilidades e oferecer soluções inovadoras.
+Sou profissional de suporte de TI, sempre em busca de evolução e novos aprendizados, especialmente no universo do **Front-End**. Minha paixão por tecnologia me inspira a aprimorar minhas habilidades continuamente e a criar soluções inovadoras.
+
+## Sobre Mim
+
+Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas.
+
+Entretanto, meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
+
+## Áreas de Interesse
+
+- Desenvolvimento Web (Front-End e Back-End)
+- Programação e criação de soluções inovadoras
+- Aprendizado contínuo em tecnologias modernas
 
 ## Contato
 
-Você pode me encontrar pelo email: [luanalcbertoli11@gmail.com](mailto:luanalcbertoli11@gmail.com)
+📧 E-mail: [luanalcbertoli11@gmail.com](mailto:luanalcbertoli11@gmail.com)
 
 ## Competências
 
