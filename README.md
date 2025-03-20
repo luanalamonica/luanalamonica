@@ -13,10 +13,9 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img 
         alt="Envie um e-mail" 
         title="Envie um e-mail para mim!" 
-        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=E-mail&logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        src="https://img.shields.io/badge/E--mail-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
-
 
 ## Competências
 
