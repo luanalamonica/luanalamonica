@@ -9,17 +9,14 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
 
 ## Contato
 
-<a href="mailto:luanalcbertoli11@gmail.com" style="
-    display: inline-block; 
-    padding: 10px 20px; 
-    font-size: 16px; 
-    color: white; 
-    background-color: #0078D4; 
-    text-decoration: none; 
-    border-radius: 5px;
-    text-align: center;">
-    📧 E-mail: luanalcbertoli11@gmail.com
+<a href="mailto:luanalcbertoli11@gmail.com">
+    <img 
+        alt="Envie um e-mail" 
+        title="Envie um e-mail para mim!" 
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=E-mail&logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
 </a>
+
 
 ## Competências
 
