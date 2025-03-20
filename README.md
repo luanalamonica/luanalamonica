@@ -1,4 +1,6 @@
-# Olá, eu sou a Luana! 👩‍💻
+# 👩🏻‍💻 Luana Lamonica
+
+**`Desenvolvedora FullStack`** **`Suporte TI`**
 
 Sou profissional de suporte de TI, sempre em busca de evolução e novos aprendizados, especialmente no universo do **Front-End**. Minha paixão por tecnologia me inspira a aprimorar minhas habilidades continuamente e a criar soluções inovadoras.
 
