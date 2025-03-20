@@ -13,9 +13,10 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img 
         alt="Envie um e-mail" 
         title="Envie um e-mail para mim!" 
-        src="https://img.shields.io/badge/E--mail-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/E--mail-Gmail-white?style=for-the-badge&logo=gmail&labelColor=red&color=red"
     />
 </a>
+
 
 ## Competências
 
