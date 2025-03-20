@@ -17,6 +17,13 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     />
 </a>
 
+<a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
+    <img 
+        alt="Visite meu LinkedIn" 
+        title="Conecte-se comigo no LinkedIn!" 
+        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=0077B5&color=0077B5"
+    />
+</a>
 
 ## Competências
 
