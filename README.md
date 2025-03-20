@@ -57,6 +57,8 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
 </p>
 
+##
+
 ### 📊 Estatísticas
 
 <p>
