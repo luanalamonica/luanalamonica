@@ -49,7 +49,7 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
 
 ##
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
