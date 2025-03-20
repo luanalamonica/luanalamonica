@@ -13,7 +13,7 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img 
         alt="Envie um e-mail" 
         title="Envie um e-mail para mim!" 
-        src="https://img.shields.io/badge/E--mail-Gmail-white?style=for-the-badge&logo=gmail&labelColor=white&color=red"
+        src="https://img.shields.io/badge/E--mail-Gmail-white?style=for-the-badge&logo=gmail&labelColor=black&color=red"
     />
 </a>
 
@@ -21,7 +21,7 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img 
         alt="Visite meu LinkedIn" 
         title="Conecte-se comigo no LinkedIn!" 
-        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=white&color=0077B5"
+        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=black&color=0077B5"
     />
 </a>
 
