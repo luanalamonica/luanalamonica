@@ -21,7 +21,7 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img 
         alt="Visite meu LinkedIn" 
         title="Conecte-se comigo no LinkedIn!" 
-        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=0077B5&color=0077B5"
+        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=white&color=0077B5"
     />
 </a>
 
