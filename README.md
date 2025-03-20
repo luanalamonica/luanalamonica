@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luana Lamonica
+# 👩🏼‍💻 Luana Lamonica
 
 **`Desenvolvedora FullStack`** **`Suporte TI`**
 
