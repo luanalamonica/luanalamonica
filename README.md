@@ -57,5 +57,22 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
     <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
 </p>
 
-## Sobre meu perfil
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&theme=dark)
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
