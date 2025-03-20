@@ -2,13 +2,10 @@
 
 **`Desenvolvedora FullStack`** **`Suporte TI`**
 
-Sou profissional de suporte de TI, sempre em busca de evolução e novos aprendizados, especialmente no universo do **Front-End**. Minha paixão por tecnologia me inspira a aprimorar minhas habilidades continuamente e a criar soluções inovadoras.
-
 ## Sobre Mim
 
-Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas.
-
-Entretanto, meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
+Me chamo Luana, tenho 19 anos, e sou de Bauru, São Paulo. Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas. Além de estar concluindo um técnico em Análise e Desenvolvimento de Sistemas.
+Meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
 
 ## Contato
 
