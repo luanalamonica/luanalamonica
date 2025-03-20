@@ -8,11 +8,6 @@ Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adq
 
 Entretanto, meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
 
-## Áreas de Interesse
-
-- Desenvolvimento Web (Front-End e Back-End)
-- Suporte TI
-
 ## Contato
 
 📧 E-mail: [luanalcbertoli11@gmail.com](mailto:luanalcbertoli11@gmail.com)
