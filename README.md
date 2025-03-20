@@ -9,7 +9,17 @@ Meu principal objetivo é a transição para o desenvolvimento web. Estou consta
 
 ## Contato
 
-📧 E-mail: [luanalcbertoli11@gmail.com](mailto:luanalcbertoli11@gmail.com)
+<a href="mailto:luanalcbertoli11@gmail.com" style="
+    display: inline-block; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    color: white; 
+    background-color: #0078D4; 
+    text-decoration: none; 
+    border-radius: 5px;
+    text-align: center;">
+    📧 E-mail: luanalcbertoli11@gmail.com
+</a>
 
 ## Competências
 
