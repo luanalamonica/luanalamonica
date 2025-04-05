@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Luana Lamonica
 
-**`Desenvolvedora FullStack`** **`Suporte TI`**
+**`Suporte TI`**
 
 ## Sobre Mim
 
