@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Me chamo Luana, tenho 19 anos, e sou de Bauru, São Paulo. Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas. Além de estar concluindo um técnico em Análise e Desenvolvimento de Sistemas.<p>
+Me chamo Luana, tenho 20 anos, e sou de Bauru, São Paulo. Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas. Além de estar concluindo um técnico em Análise e Desenvolvimento de Sistemas.<p>
 Meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
 
 ## Contato
