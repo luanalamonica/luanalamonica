@@ -1,4 +1,4 @@
-<h1 align="center">👩🏼‍💻 Luana Lamonica</h1>
+<h1 align="center">👩🏼‍💻 Hi there, I'm Luana!</h1>
 
 <p align="center">
   Assistente de TI • Estudante de ADS • Futura Desenvolvedora Web
@@ -19,59 +19,72 @@
 
 ---
 
-## 🧬 Quem sou eu?
+## 👩🏼‍💼 Sobre mim
 
-- 🔹 20 anos, de Bauru – SP  
-- 🔹 Atuação atual como **Assistente de TI**  
-- 🔹 Formação técnica em **Análise e Desenvolvimento de Sistemas** em andamento  
-- 🔹 Experiência com:
-  - Suporte técnico e troubleshooting  
-  - Atendimento a usuários  
-  - Redes e infraestrutura  
+Sou a **Luana Lamonica**, apaixonada por tecnologia e pelo impacto que boas soluções podem causar na vida das pessoas.  
+Tenho **20 anos**, sou de **Bauru – SP** e atualmente atuo como **Assistente de TI**, enquanto concluo minha formação em **Análise e Desenvolvimento de Sistemas**.
 
-🎯 **Objetivo:** migrar para o **desenvolvimento web**, criando aplicações modernas, responsivas e com foco na experiência do usuário.
+No meu dia a dia, já trabalhei com:
+
+- Suporte técnico, troubleshooting e atendimento a usuários  
+- Manutenção de computadores e redes  
+- Rotinas de infraestrutura em ambiente corporativo  
+
+🎯 Meu objetivo é migrar para o **desenvolvimento web**, unindo minha base em TI com interfaces modernas, acessíveis e responsivas.
+
+---
+
+## 💡 Expertise
+
+Gosto de unir **organização**, **empatia com o usuário** e **curiosidade técnica**.  
+Alguns pontos que me definem profissionalmente:
+
+- Foco em **resolver problemas reais**, não só “fechar chamados”  
+- Cuidado com **comunicação clara** com usuários e time  
+- Interesse em boas práticas de **frontend**, performance e usabilidade  
+- Vontade constante de aprender novas ferramentas e tecnologias  
+
+Estou em transição para o desenvolvimento web, construindo projetos que envolvem **HTML, CSS, JavaScript/TypeScript** e frameworks modernos.
 
 ---
 
-## 🚀 Stack & Tecnologias  
+## 🧰 Tech Stack
 
-### 🎨 Frontend
+### Linguagens & Base
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48"/>
-  <img src="https://img.icons8.com/color/48/vite.png" alt="Vite" title="Vite"/>
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### 🛠 Backend
+### Frontend & Ferramentas
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" title="C#"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🗄 Banco de Dados
+### Backend, Banco & Outros
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
-</p>
-
-### 🧩 Frameworks & Outros
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" title=".NET" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Engine" title="Godot Engine" width="48"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </p>
 
 ---
-## 📊 Estatísticas do GitHub  
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img
@@ -84,51 +97,23 @@
     alt="GitHub Streak"
     height="160"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-    alt="Top Langs"
-    height="160"
-  />
 </div>
 
 ---
 
-## 📈 Atividades Recentes e Gráficos  
+## 🌐 Socials
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luanalamonica&bg_color=0d1117&color=ff69b4&line=ff79c6&point=bd93f9&area=true&hide_border=true"
-    alt="Gráfico de Atividade GitHub"
-  />
-</div>
-
----
-
-## 🏆 Trophies  
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=luanalamonica&theme=dracula&no-bg=true&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</div>
-
-## 💬 Um pouco mais sobre mim  
-
-- 📚 Sempre estudando algo novo em **frontend**  
-- 🤝 Aberta a colaborar em projetos, principalmente web  
-- 🎮 Curiosidade por **jogos e engines**, como Godot  
-- 🌐 Sonho em trabalhar com desenvolvimento web criando soluções que facilitem o dia a dia das pessoas  
-
----
-
-## 📬 Onde me encontrar  
-
-<p>
+<p align="left">
   <a href="mailto:luanalcbertoli11@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar%20e--mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Grandes jornadas começam com pequenos commits."</i> ✨
 </p>
