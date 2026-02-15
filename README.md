@@ -1,6 +1,6 @@
 # Luana Lamonica  
 
-**Assistente de TI • Formada em ADS • Futura Desenvolvedora Web**
+**Assistente de TI • Estudante de ADS • Futura Desenvolvedora Web**
 
 ---
 
@@ -29,27 +29,65 @@ Meu próximo passo é migrar para o **desenvolvimento web**, unindo minha bagage
 ## Linguagens e Tecnologias  
 
 ### Frontend  
-- HTML5  
-- CSS3  
-- JavaScript  
-- TypeScript  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/>
+</p>
 
 ### Backend  
-- PHP  
-- Java  
-- C#  
-- Python  
-- C  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" title="C#"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
+</p>
 
 ### Banco de Dados  
-- SQL  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
+</p>
 
 ### Frameworks, Ferramentas e Outros  
-- React  
-- Vite  
-- Laravel  
-- .NET  
-- Godot Engine  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48"/>
+  <img src="https://img.icons8.com/color/48/vite.png" alt="Vite" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" title=".NET" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Engine" title="Godot Engine" width="48"/>
+</p>
+
+---
+
+## Estatísticas no GitHub  
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=radical" 
+    alt="GitHub Streak" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=radical" 
+    alt="Top Langs" 
+    height="160"
+  />
+
+</div>
 
 ---
 
