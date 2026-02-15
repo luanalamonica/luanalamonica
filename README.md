@@ -1,8 +1,3 @@
-<!-- Banner / Destaque -->
-<div align="center">
-  <img src="https://i.ibb.co/wQZVxx0/tech-banner.png" alt="Banner de tecnologia" width="100%" />
-</div>
-
 <h1 align="center">👩🏼‍💻 Luana Lamonica</h1>
 
 <p align="center">
@@ -83,17 +78,17 @@
 
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=luanalamonic&show_icons=true&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true" 
     alt="GitHub Stats" 
     height="160"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=luanalamonic&theme=dracula&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=luanalamonica&theme=dracula&hide_border=true" 
     alt="GitHub Streak" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonic&layout=compact&langs_count=8&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=dracula&hide_border=true" 
     alt="Top Langs" 
     height="160"
   />
@@ -105,7 +100,7 @@
 ## 📈 Atividade Recentes e Gráficos  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luanalamonic&bg_color=0d1117&color=ff69b4&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Gráfico de Atividade GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luanalamonica&bg_color=0d1117&color=ff69b4&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Gráfico de Atividade GitHub"/>
 </div>
 
 ---
