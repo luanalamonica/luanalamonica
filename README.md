@@ -17,8 +17,6 @@ No meu dia a dia, já trabalhei com:
 - Manutenção de computadores e redes  
 - Rotinas de infraestrutura em ambiente corporativo  
 
-🎯 Meu objetivo é migrar para o **desenvolvimento web**, unindo minha base em TI com interfaces modernas, acessíveis e responsivas.
-
 ## 💡 Expertise
 
 Gosto de unir **organização**, **empatia com o usuário** e **curiosidade técnica**.  
