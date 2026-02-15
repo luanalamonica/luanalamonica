@@ -1,37 +1,63 @@
-# 👩🏼‍💻 Luana Lamonica  
+# Luana Lamonica  
 
-**Assistente de TI | Futura Desenvolvedora Web**
-
----
-
-## Sobre Mim  
-
-Tenho 20 anos e sou de Bauru, São Paulo.  
-Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em:  
-
-- 🔧 Suporte técnico e resolução de problemas  
-- 👥 Atendimento a usuários  
-- 🌐 Gestão de redes de computadores  
-
-Atualmente, trabalho como **Assistente de TI**, ampliando meu entendimento sobre infraestrutura e sistemas, enquanto concluo o técnico em **Análise e Desenvolvimento de Sistemas**.  
-
-🎯 Meu objetivo é migrar para o **desenvolvimento web**, unindo minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.  
+**Assistente de TI • Formada em ADS • Futura Desenvolvedora Web**
 
 ---
 
-## 📬 Contato  
+## Sobre mim  
+
+Tenho 20 anos, sou de Bauru (SP) e atuo na área de tecnologia desde o estágio em suporte de TI. Nesse período, desenvolvi experiência em:  
+
+- Suporte técnico e diagnóstico de problemas  
+- Atendimento e orientação a usuários  
+- Gestão e manutenção de redes de computadores  
+
+Atualmente trabalho como **Assistente de TI**, o que tem ampliado minha vivência em infraestrutura, sistemas e rotinas de ambiente corporativo, enquanto concluo o curso técnico em **Análise e Desenvolvimento de Sistemas**.  
+
+Meu próximo passo é migrar para o **desenvolvimento web**, unindo minha bagagem em suporte, redes e infraestrutura com tecnologias modernas para criar aplicações funcionais, seguras e com uma boa experiência para o usuário.  
+
+---
+
+## O que estou buscando  
+
+- Primeira oportunidade como **Desenvolvedora Web (Júnior/Estágio)**  
+- Projetos que envolvam **frontend moderno** e, futuramente, **full stack**  
+- Ambientes colaborativos onde eu possa **aprender na prática** e crescer com o time  
+
+---
+
+## Linguagens e Tecnologias  
+
+### Frontend  
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+
+### Backend  
+- PHP  
+- Java  
+- C#  
+- Python  
+- C  
+
+### Banco de Dados  
+- SQL  
+
+### Frameworks, Ferramentas e Outros  
+- React  
+- Vite  
+- Laravel  
+- .NET  
+- Godot Engine  
+
+---
+
+## Contato  
 
 <a href="mailto:luanalcbertoli11@gmail.com">
-    <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar-white?style=for-the-badge&logo=gmail&labelColor=black&color=red"/>
+    <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar%20e--mail-white?style=for-the-badge&logo=gmail&labelColor=black&color=red"/>
 </a>
 <a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=black&color=0077B5"/>
 </a>
-
----
-
-## 🚀 Linguagens e Tecnologias  
-
-| Frontend | Backend | Banco de Dados | Frameworks & Outros |
-|----------|---------|----------------|---------------------|
-| <img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> | <img src="https://img.icons8.com/color/48/php.png"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/c-programming.png"/> | <img src="https://img.icons8.com/color/48/sql.png"/> | <img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/color/48/vite.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="48"/> |
