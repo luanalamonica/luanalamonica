@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luanalamonica&color=ff69b4&style=flat-square" alt="Visualizações de perfil" />
-</p>
-
 ---
 
 ## 👩🏼‍💼 Sobre mim
