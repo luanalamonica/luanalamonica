@@ -88,10 +88,10 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-    height="160"
-  />
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true"
+  alt="GitHub Stats"
+  height="160"
+/>
   <img
     src="https://streak-stats.demolab.com?user=luanalamonica&theme=dracula&hide_border=true"
     alt="GitHub Streak"
