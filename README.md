@@ -111,9 +111,3 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>"Grandes jornadas começam com pequenos commits."</i> ✨
-</p>
