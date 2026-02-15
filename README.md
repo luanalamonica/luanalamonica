@@ -27,8 +27,6 @@ Alguns pontos que me definem profissionalmente:
 - Interesse em boas práticas de **frontend**, performance e usabilidade  
 - Vontade constante de aprender novas ferramentas e tecnologias  
 
-Estou em transição para o desenvolvimento web, construindo projetos que envolvem **HTML, CSS, JavaScript/TypeScript** e frameworks modernos.
-
 ## 🧰 Tech Stack
 
 ### Linguagens & Base
