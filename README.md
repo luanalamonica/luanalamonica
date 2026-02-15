@@ -1,7 +1,7 @@
 <h1 align="center">👩🏼‍💻 Hi there, I'm Luana!</h1>
 
 <p align="center">
-  Assistente de TI • Estudante de ADS • Futura Desenvolvedora Web
+  Assistente de TI • Formada em ADS • Futura Desenvolvedora Web
 </p>
 
 <p align="center">
@@ -98,16 +98,3 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
     height="160"
   />
 </div>
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="mailto:luanalcbertoli11@gmail.com">
-    <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar%20e--mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
