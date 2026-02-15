@@ -18,7 +18,7 @@
 ## 👩🏼‍💼 Sobre mim
 
 Sou a **Luana Lamonica**, apaixonada por tecnologia e pelo impacto que boas soluções podem causar na vida das pessoas.  
-Tenho **20 anos**, sou de **Bauru – SP** e atualmente atuo como **Assistente de TI**, enquanto concluo minha formação em **Análise e Desenvolvimento de Sistemas**.
+Tenho **20 anos**, sou de **Bauru – SP** e atualmente atuo como **Assistente de TI**, e formada em **Análise e Desenvolvimento de Sistemas**.
 
 No meu dia a dia, já trabalhei com:
 
