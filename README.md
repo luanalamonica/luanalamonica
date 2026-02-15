@@ -19,8 +19,6 @@ No meu dia a dia, já trabalhei com:
 
 🎯 Meu objetivo é migrar para o **desenvolvimento web**, unindo minha base em TI com interfaces modernas, acessíveis e responsivas.
 
---
-
 ## 💡 Expertise
 
 Gosto de unir **organização**, **empatia com o usuário** e **curiosidade técnica**.  
@@ -32,8 +30,6 @@ Alguns pontos que me definem profissionalmente:
 - Vontade constante de aprender novas ferramentas e tecnologias  
 
 Estou em transição para o desenvolvimento web, construindo projetos que envolvem **HTML, CSS, JavaScript/TypeScript** e frameworks modernos.
-
---
 
 ## 🧰 Tech Stack
 
@@ -69,8 +65,6 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 </p>
 
---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,8 +79,6 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
     height="160"
   />
 </div>
-
---
 
 ## 🌐 Socials
 
