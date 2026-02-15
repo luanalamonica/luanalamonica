@@ -69,10 +69,10 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
 
 <div align="center">
   <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true"
-  alt="GitHub Stats"
-  height="160"
-/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+    height="160"
+  />
   <img
     src="https://streak-stats.demolab.com?user=luanalamonica&theme=dracula&hide_border=true"
     alt="GitHub Streak"
@@ -84,9 +84,9 @@ Estou em transição para o desenvolvimento web, construindo projetos que envolv
 
 <p align="left">
   <a href="mailto:luanalcbertoli11@gmail.com">
-    <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar%20e--mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
