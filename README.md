@@ -1,47 +1,50 @@
-# 👩🏼‍💻 Luana Lamonica
+# 👩🏼‍💻 Luana Lamonica  
 
-**`Suporte TI`**
+**Assistente de TI | Futura Desenvolvedora Web**
 
-## Sobre Mim
+---
 
-Me chamo Luana, tenho 20 anos, e sou de Bauru, São Paulo. Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em suporte técnico, resolução de problemas e atendimento a usuários, além de aprender sobre gestão de redes de computadores. Atualmente, trabalho como Assistente de TI, o que tem ampliado meu entendimento sobre infraestrutura e sistemas. Além de estar concluindo um técnico em Análise e Desenvolvimento de Sistemas.<p>
-Meu principal objetivo é a transição para o desenvolvimento web. Estou constantemente desenvolvendo minhas competências em programação e buscando unir minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.
+<img align="right" src="https://img.icons8.com/fluency/96/000000/computer.png" alt="Perfil Tech"/>
 
-## Contato
+## Sobre Mim  
+
+Tenho 20 anos e sou de Bauru, São Paulo.  
+Minha jornada na tecnologia começou como estagiária de suporte de TI, onde adquiri experiência em:  
+
+- 🔧 Suporte técnico e resolução de problemas  
+- 👥 Atendimento a usuários  
+- 🌐 Gestão de redes de computadores  
+
+Atualmente, trabalho como **Assistente de TI**, ampliando meu entendimento sobre infraestrutura e sistemas, enquanto concluo o técnico em **Análise e Desenvolvimento de Sistemas**.  
+
+🎯 Meu objetivo é migrar para o **desenvolvimento web**, unindo minha base técnica com tecnologias modernas para criar aplicações funcionais e criativas.  
+
+---
+
+## 📬 Contato  
 
 <a href="mailto:luanalcbertoli11@gmail.com">
-    <img 
-        alt="Envie um e-mail" 
-        title="Envie um e-mail para mim!" 
-        src="https://img.shields.io/badge/E--mail-Gmail-white?style=for-the-badge&logo=gmail&labelColor=black&color=red"
-    />
+    <img alt="E-mail" src="https://img.shields.io/badge/Gmail-Enviar-white?style=for-the-badge&logo=gmail&labelColor=black&color=red"/>
 </a>
-
 <a href="https://www.linkedin.com/in/luana-lamonica-b8a2a7289/" target="_blank">
-    <img 
-        alt="Visite meu LinkedIn" 
-        title="Conecte-se comigo no LinkedIn!" 
-        src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=black&color=0077B5"
-    />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=for-the-badge&logo=linkedin&labelColor=black&color=0077B5"/>
 </a>
 
-## 
+---
 
-### Linguagens e Tecnologias
-<p>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="ASP.NET" width="48" height="48"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="48" height="48"/>
-</p>
+## 🚀 Linguagens e Tecnologias  
+
+| Frontend | Backend | Banco de Dados | Frameworks & Outros |
+|----------|---------|----------------|---------------------|
+| <img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> | <img src="https://img.icons8.com/color/48/php.png"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/c-programming.png"/> | <img src="https://img.icons8.com/color/48/sql.png"/> | <img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/color/48/vite.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="48"/> |
+
+---
+
+## 📊 Gráfico de Competências (Exemplo)
+
+```mermaid
+pie showData
+    "Frontend (HTML, CSS, JS, TS)" : 30
+    "Backend (PHP, Java, C#, Python)" : 35
+    "Banco de Dados (SQL)" : 15
+    "Frameworks (React, Laravel, .NET, Godot)" : 20
