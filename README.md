@@ -71,32 +71,24 @@
 </p>
 
 ---
-
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-
-  <!-- Stats principais (pode falhar se o serviço estiver fora do ar) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
     height="160"
   />
-
-  <!-- Streak em serviço mais atualizado -->
-  <img 
-    src="https://streak-stats.demolab.com?user=luanalamonica&theme=dracula&hide_border=true" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=luanalamonica&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
     height="160"
   />
-
-  <!-- Top Langs -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=dracula&hide_border=true" 
-    alt="Top Langs" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    alt="Top Langs"
     height="160"
   />
-
 </div>
 
 ---
@@ -104,7 +96,10 @@
 ## 📈 Atividades Recentes e Gráficos  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luanalamonica&bg_color=0d1117&color=ff69b4&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Gráfico de Atividade GitHub"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=luanalamonica&bg_color=0d1117&color=ff69b4&line=ff79c6&point=bd93f9&area=true&hide_border=true"
+    alt="Gráfico de Atividade GitHub"
+  />
 </div>
 
 ---
@@ -112,10 +107,11 @@
 ## 🏆 Trophies  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanalamonica&theme=dracula&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=luanalamonica&theme=dracula&no-bg=true&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </div>
-
----
 
 ## 💬 Um pouco mais sobre mim  
 
