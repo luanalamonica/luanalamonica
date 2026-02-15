@@ -4,8 +4,6 @@
 
 ---
 
-<img align="right" src="https://img.icons8.com/fluency/96/000000/computer.png" alt="Perfil Tech"/>
-
 ## Sobre Mim  
 
 Tenho 20 anos e sou de Bauru, São Paulo.  
@@ -37,14 +35,3 @@ Atualmente, trabalho como **Assistente de TI**, ampliando meu entendimento sobre
 | Frontend | Backend | Banco de Dados | Frameworks & Outros |
 |----------|---------|----------------|---------------------|
 | <img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/javascript.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> | <img src="https://img.icons8.com/color/48/php.png"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/c-programming.png"/> | <img src="https://img.icons8.com/color/48/sql.png"/> | <img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/color/48/vite.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="48"/> |
-
----
-
-## 📊 Gráfico de Competências (Exemplo)
-
-```mermaid
-pie showData
-    "Frontend (HTML, CSS, JS, TS)" : 30
-    "Backend (PHP, Java, C#, Python)" : 35
-    "Banco de Dados (SQL)" : 15
-    "Frameworks (React, Laravel, .NET, Godot)" : 20
