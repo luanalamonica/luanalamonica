@@ -70,7 +70,7 @@ Meu próximo passo é migrar para o **desenvolvimento web**, unindo minha bagage
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=luanalamonica&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?user=luanalamonica&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
     height="160"
   />
@@ -82,7 +82,7 @@ Meu próximo passo é migrar para o **desenvolvimento web**, unindo minha bagage
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalamonica&layout=compact&langs_count=8&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?user=luanalamonica&layout=compact&langs_count=8&theme=radical" 
     alt="Top Langs" 
     height="160"
   />
